@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/rugwizangoga/Webpack/issues"
   },
-  "homepage": "https://github.com/rugwizangoga/Webpack#readme",
+  "homepage": "https://github.com/rugwizangoga/Webpack#index.bundle.js",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
