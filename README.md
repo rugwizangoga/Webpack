@@ -14,8 +14,6 @@ Webpack project is a basic project that shows how to setup webpack to be used as
 - Javascript
 - webpack
 
-## Live Demo
-[Live Demo Link](https://rugwizangoga.github.io/Webpack/)
 ## Getting Started
 
 $ git clone git@github.com:rugwizangoga/Webpack
