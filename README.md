@@ -2,7 +2,7 @@
 
 # Webpack
 
-Webpack project is a basic project that shows how to setup webpack to used as a bundler in a development mode
+Webpack project is a basic project that shows how to setup webpack to be used as your project bundler in a development mode
 
 
 ## Built With
